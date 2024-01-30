@@ -5,7 +5,7 @@ const SinglePost = () => {
   return (
     <div className='singlePost'>
       <div className="singlePostWrapper">
-        <img src="https://images.pexels.com/photos/460775/pexels-photo-460775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="singlePostImg" />
+        <img className="singlePostImg" src="https://images.pexels.com/photos/460775/pexels-photo-460775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="singlePostImg" />
       </div>
       <h1 className='singlePostTitle'>
         Lorem ipsum, dolor.
